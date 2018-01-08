@@ -12,10 +12,10 @@ they tend to communicate with people close to them when having such traits.
 This analysis will not only help detect, but also advice on steps to be taken when
 a positive case is diagnosed.
 This project would involve four major steps: 
-1.Data gathering: by emailingthe chat 
-2.Data pre-processing: cleaning the data 
-3.Analysis: finding most frequent words and analyzing sleep patterns and
-4.Recommendation (psychological and medical).
+1. Data gathering: by emailing the chat 
+2. Data pre-processing: cleaning the data 
+3. Analysis: finding most frequent words and analyzing sleep patterns and
+4. Recommendation (psychological and medical).
 
 The project back-end will be done using R Studio and Python;front-end would
 be web-based (using HTML, CSS, Plotly.js)
