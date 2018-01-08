@@ -1,5 +1,11 @@
 # MiniProject3-2
-<h1>Analysing whatsapp chat to find depressibe traits</h1> 
+<h1>Analysing whatsapp chat to find depressive traits</h1> 
+
+<h2>Statistics</h2>
+
+* In India, about 46,000 suicides occurred each in 15–29 and 30–44 age groups in 2012 – or about 34% each of all suicides.
+* About 800,000 people commit suicide worldwide every year,of these 135,000 (17%) are residents of India, a nation with 17.5% of world population.
+* In 2012, 80% of the suicide victims were literate, higher than the national average literacy rate of 74%.
 
 <h2>Abstract.</h2> Mental health is one of the least talked about issues in India. It can
 affect a person in ways one cannot imagine and if not diagnosed and treated
